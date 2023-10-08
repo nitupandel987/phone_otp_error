@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940446397469",
+    "project_id": "phoneauthentication-d209c",
+    "storage_bucket": "phoneauthentication-d209c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940446397469:android:f62cd7f4a592a10ed6c2f4",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBstj4pgUlafvnFD6LnT8MvQc1B0zWL5MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
